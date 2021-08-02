@@ -1,12 +1,11 @@
 {
   "name": "just-another-design-system",
-  "version": "1.0.14",
+  "version": "1.0.16",
   "description": "Just a test on how to npx things",
   "main": "index.js",
   "bin": "./index.js",
   "exports": {
-    ".": "./index.js",
-    "./globals": "./globals.css"
+    ".": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
