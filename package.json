@@ -1,9 +1,9 @@
 {
   "name": "just-another-design-system",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Just a test on how to npx things",
   "main": "index.js",
-  "bin": "./index.js",
+  "bin": "./index",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "just-another-design-system": "node ./index.js" 
