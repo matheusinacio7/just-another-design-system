@@ -1,6 +1,6 @@
 {
   "name": "just-another-design-system",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Just a test on how to npx things",
   "main": "index",
   "bin": "./index",
