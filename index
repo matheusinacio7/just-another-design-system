@@ -4,3 +4,5 @@ git init
 echo "o pai ta on" > "./hello.txt"
 git add .
 git commit -m "o papai chegou"
+
+node ./node_modules/just-another-design-system/main.js
