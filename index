@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ls > sera.txt
+ls ./node_modules/just-another-design-system > sera.txt
 node ./node_modules/just-another-design-system/main.js
 exit 1
 
