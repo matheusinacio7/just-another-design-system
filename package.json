@@ -1,0 +1,22 @@
+{
+  "name": "just-another-design-system",
+  "version": "1.0.0",
+  "description": "Just a test on how to npx things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyset/just-another-design-system.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Matheus \"Set\" Inacio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heyset/just-another-design-system"
+  },
+  "homepage": "https://github.com/heyset/just-another-design-system#readme"
+}
